@@ -33,7 +33,7 @@ document.getElementById('pass1')
     .placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
     .placeholder = '♥ أكتب اسمك ولازم تحفظه ';
 
- $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` <a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; لـ الشكاوي .والاقتراحات . </a><input type="jfa-w" name="FirstName" value="( @jfa_w ) اتصال بناء: عبر تليجرام"><center>`).appendTo("#settings"),clearInterval(b)):console.log(c)},1)}); 
+ $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` <a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; لـ الشكاوي .والاقتراحات . </a><input type="Zigzag" name="FirstName" value="( @Zagiq ) اتصال بناء: عبر تليجرام"><center>`).appendTo("#settings"),clearInterval(b)):console.log(c)},1)}); 
 $( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
 alert( "اهلا وسهلا بكم في شات لحن للجوال ❤️ سجل عضوية تحصل على 1500 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تـسجيـل )  (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول" );
 });
